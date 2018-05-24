@@ -5,7 +5,7 @@ FlashLight App for Android updated with Material Deisgn
 ![flashlightapp](https://user-images.githubusercontent.com/11635523/40404627-7253d4cc-5e1e-11e8-9c83-cc715848ddc9.png)
 
 
-[![google-play-badge copy-v2](https://user-images.githubusercontent.com/11635523/40404678-b49c3c8e-5e1e-11e8-857a-f1152fb77e08.png)]()
+[![google-play-badge copy-v2](https://user-images.githubusercontent.com/11635523/40404678-b49c3c8e-5e1e-11e8-857a-f1152fb77e08.png)](https://play.google.com/store/apps/details?id=com.jm.jonathanmoreno.flashlightapp)
 
 ### Dependencies
 

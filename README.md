@@ -7,7 +7,7 @@ FlashLight App for Android updated with Material Deisgn
 
 [![google-play-badge copy-v2](https://user-images.githubusercontent.com/11635523/40404678-b49c3c8e-5e1e-11e8-857a-f1152fb77e08.png)]()
 
-#### Dependencies
+### Dependencies
 
 ```
 
@@ -18,7 +18,7 @@ implementation 'com.android.support:support-v4:27.1.1'
 
 ```
 
-#### Permissions
+### Permissions
 
 Add the permissions in your **app/manifests/AndroidManifest.xml** file
 
